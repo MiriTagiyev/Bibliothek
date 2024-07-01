@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|c:\\users\\mirit\\onedrive\\desktop\\jed academy c#\\bibliothek task\\bibliothek-eigentlich\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|c:\\users\\mirit\\onedrive\\desktop\\jed academy c#\\bibliothek task\\bibliothek-eigentlich\\library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|solutionrelative:library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|c:\\users\\mirit\\onedrive\\desktop\\jed academy c#\\bibliothek task\\bibliothek-eigentlich\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|c:\\users\\mirit\\onedrive\\desktop\\jed academy c#\\bibliothek task\\bibliothek-eigentlich\\library\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|solutionrelative:library\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|c:\\users\\mirit\\onedrive\\desktop\\jed academy c#\\bibliothek task\\bibliothek-eigentlich\\library\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB790477-0683-406A-918E-72EACC1D66C6}|Library\\Bibliothek.csproj|solutionrelative:library\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Book.cs",
+              "ToolTip": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Book.cs",
+              "RelativeToolTip": "Library\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:25:18.503Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:14:36.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioBook.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\AudioBook.cs",
+              "RelativeDocumentMoniker": "Library\\AudioBook.cs",
+              "ToolTip": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\AudioBook.cs",
+              "RelativeToolTip": "Library\\AudioBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:25:22.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Journal.cs",
+              "RelativeDocumentMoniker": "Library\\Journal.cs",
+              "ToolTip": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Journal.cs",
+              "RelativeToolTip": "Library\\Journal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:24:50.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Library.cs",
+              "RelativeDocumentMoniker": "Library\\Library.cs",
+              "ToolTip": "C:\\Users\\mirit\\OneDrive\\Desktop\\Jed Academy C#\\Bibliothek Task\\Bibliothek-eigentlich\\Library\\Library.cs",
+              "RelativeToolTip": "Library\\Library.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:24:42.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -38,6 +38,7 @@ namespace MyLibrary.ElementClasses
                 else
                 {
 
+                    Console.WriteLine("Siyahi bosdur");
                 }
             }
         }
@@ -116,7 +117,7 @@ namespace MyLibrary.ElementClasses
                 }
                 else
                 {
-
+                    Console.WriteLine("Siyahi bosdur");
                 }
             }
         }
@@ -194,7 +195,7 @@ namespace MyLibrary.ElementClasses
                 }
                 else
                 {
-
+                    Console.WriteLine("Siyahi bosdur");
                 }
             }
         }

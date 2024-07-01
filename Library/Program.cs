@@ -4,12 +4,10 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 string email = "miritagiyev@gmail.com";
 string password = "mt123";
 
-int attempts = 0;
 // Login page --> start
 #region Login Form
-while (attempts == attempts)
 {
-    Console.WriteLine("Sisteme giris edin:");
+    Console.WriteLine("Sisteme daxil olun:");
     Console.WriteLine("------------------\n");
     Console.Write("E-mail:");
     string inputEmail = Console.ReadLine();
@@ -19,7 +17,7 @@ while (attempts == attempts)
     #endregion
     if (inputEmail == email && inputPassword == password)
     {
-        var library = new Library("Wunsch", 20, 20, 20);
+        var library = new Library("Wunsch", 1, 1, 1);
 
         PrintMessage($"Salam! {library.LibraryName} kitabxanasına xoş gəlmişsiniz!", ConsoleColor.Blue);
 
