@@ -4,12 +4,10 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 string email = "miritagiyev@gmail.com";
 string password = "mt123";
 
-int attempts = 0;
 // Login page --> start
 #region Login Form
-while (attempts == attempts)
 {
-    Console.WriteLine("Sisteme giris edin:");
+    Console.WriteLine("Sisteme daxil olun:");
     Console.WriteLine("------------------\n");
     Console.Write("E-mail:");
     string inputEmail = Console.ReadLine();
